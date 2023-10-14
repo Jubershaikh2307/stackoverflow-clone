@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Atharv Hatwar",
+  "author": "Juber Shaikh",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
