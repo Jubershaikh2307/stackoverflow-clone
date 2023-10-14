@@ -1,5 +1,5 @@
 {
-  "name": "client2",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,18 +46,18 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App].",
+  "description": "",
   "main": "index.js",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   },
   "repository": {
     "type": "git",
-    "url": "atharvhatwar"
+    "url": "juber2307"
   },
   "keywords": [
     "stackoverflow"
   ],
-  "author": "Atharv Hatwar",
-  "license": "ISC"
+  "author": "Juber Shaikh",
+  "license": "MIT"
 }
